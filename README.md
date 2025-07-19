@@ -6,6 +6,7 @@ A passionate junior data analyst from Puglia!
 🌱 I’m currently deepening my Python skills and exploring machine learning
 
 📫 How to reach me --> Linkedin profile: https://www.linkedin.com/in/elisa-de-santis-941a58146/
+
 Languages and Tools:
 mssql
 postgresql
